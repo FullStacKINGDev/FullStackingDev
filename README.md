@@ -57,7 +57,7 @@ A collection of projects exploring intelligent application development, backend 
 I'm interested in collaborating with engineers and teams building scalable software products and practical AI solutions.
 
 - **GitHub:** [FullStackKINGDev](https://github.com/FullStackKINGDev)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/naresh-kumar-v/)
 - **Portfolio:** [Explore my work](YOUR_PORTFOLIO_URL)
 
 ---
