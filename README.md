@@ -22,11 +22,11 @@ Currently working at **WeLe IntelliTech**, contributing to software development 
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, JavaScript, TypeScript, Java, SQL |
+| Languages | Python, JavaScript, TypeScript, Java |
 | Frontend | React, HTML5, CSS3 |
 | Backend | Django, Django REST Framework, Node.js, Express.js, GraphQL |
 | AI & LLMs | Generative AI, LLM Integration, RAG, Embeddings, Vector Search |
-| Databases & Caching | PostgreSQL, MongoDB, Redis |
+| Databases & Caching | PostgreSQL, MongoDB, SQL & Redis |
 | Messaging & Infrastructure | Kafka, Docker, Kubernetes, Linux |
 | Development Tools | Git, GitHub |
 
