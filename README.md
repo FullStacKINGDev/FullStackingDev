@@ -58,7 +58,7 @@ I'm interested in collaborating with engineers and teams building scalable softw
 
 - **GitHub:** [FullStackKINGDev](https://github.com/FullStackKINGDev)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/naresh-kumar-v/)
-- **Portfolio:** [Explore my work](YOUR_PORTFOLIO_URL)
+- **Portfolio:** [Explore my work](https://fullstackingdev-portfolio.vercel.app/)
 
 ---
 
